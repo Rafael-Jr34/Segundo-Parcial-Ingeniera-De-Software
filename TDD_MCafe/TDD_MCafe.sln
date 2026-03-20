@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_MCafe", "TDD_MCafe.csproj", "{4A764D6F-FC7B-44D2-8F4E-AB9B90FA9BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_MCafe_Test", "..\TDD_MCafe_Test\TDD_MCafe_Test.csproj", "{0B2A59C3-9872-4242-BC94-5DA41C0CE579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A764D6F-FC7B-44D2-8F4E-AB9B90FA9BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A764D6F-FC7B-44D2-8F4E-AB9B90FA9BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A764D6F-FC7B-44D2-8F4E-AB9B90FA9BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A764D6F-FC7B-44D2-8F4E-AB9B90FA9BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2A59C3-9872-4242-BC94-5DA41C0CE579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2A59C3-9872-4242-BC94-5DA41C0CE579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2A59C3-9872-4242-BC94-5DA41C0CE579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2A59C3-9872-4242-BC94-5DA41C0CE579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D6EDE21-D868-4837-B0FB-AA75E640ED25}
+	EndGlobalSection
+EndGlobal
